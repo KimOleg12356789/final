@@ -1,0 +1,407 @@
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1550px) {
+	.some_one_justy {
+	    padding: 30px 0 0 0;
+	}
+
+	.some_one {
+		background: url(../img/some_one.png) center 0 no-repeat;
+	}
+
+	.some_one_wrap {
+	    padding: 40px 0 0 0;
+	    display: flex;
+	}
+
+	.some_one_name {
+	    padding: 0 0 0 0;
+	    margin: 0 0 0 -100px;
+	    leading-trim: both;
+	    text-edge: cap;
+	    font-family: Madera;
+	    font-size: 40px;
+	    font-style: normal;
+	    font-weight: 700;
+	    line-height: 98%;
+	}
+
+	.some_one_suptitle {
+	    max-height: 126px;
+	    min-height: 126px;
+	    max-width: 250px;
+	    text-align: right;
+	    leading-trim: both;
+	    text-edge: cap;
+	    font-family: Madera;
+	    font-size: 14px;
+	    font-style: normal;
+	    font-weight: 400;
+	    line-height: normal;
+	    margin: 30px 0 0 -100px;
+	}
+
+	.some_one_button {
+	    max-width: 169px;
+	    margin: 40px 0 0 -100px;
+	}
+
+	
+
+	.some_one_dk_suptitle {
+	    max-width: 244px;
+	    margin: 100px 0 0 20px;
+	    font-family: Madera;
+	    font-size: 14px;
+	    font-style: normal;
+	    font-weight: 400;
+	    line-height: normal;
+	}
+
+	.some_one_dk_suptitle_right {
+	    text-align: right;
+	    margin: 100px 20px 0 auto;
+	}
+
+	.some_one_name_right {
+	    margin: 0 -100px 0 0;
+	    text-align: right;
+	}
+
+	.some_one_suptitle_mr {
+	    max-width: 223px;
+	    margin: 30px -100px 0 auto;
+	}
+
+	.some_one_button_mr {
+	    margin: 40px -100px 0 auto;
+	}
+
+	.some_two_block2 {
+	    width: 52%;
+	    padding: 30px 15px 0 0;
+	}
+
+	.some_two_wrap img {
+		width: 100%;
+		height: 100%;
+	}
+
+	.some_two_wrap img {
+	    overflow-clip-margin: unset;
+	    overflow: unset;
+	    width: auto;
+	    height: auto;
+	    width: -webkit-fill-available;
+	}
+
+	.some_two_wrap {
+	    height: 100%;
+	    display: flex;
+	}
+
+	.some_two_inner {
+	    display: flex;
+	    max-width: 350px;
+	}
+
+	.title {
+	    margin: 20px 0 0 0;
+	    font-family: Madera;
+	    font-size: 32px;
+	    font-style: normal;
+	    font-weight: 700;
+	    line-height: 98%;
+	}
+
+	.suptitle {
+	    font-family: Madera;
+	    font-size: 16px;
+	    font-style: normal;
+	    font-weight: 400;
+	    line-height: 120%;
+	}
+}
+
+@media screen and (max-width: 1250px) {
+	.some_one_logo a img {
+		width: 136px;
+	}
+
+	.some_one_title {
+	    padding: 20px 0 0 0;
+	    text-align: center;
+	    font-family: Madera;
+	    font-size: 14px;
+	    font-style: normal;
+	    font-weight: 700;
+	    line-height: 120%;
+	    color: #fff;
+	}
+
+	.some_one_name {
+		width: 100%;
+		font-size: 32px;
+		margin: 0;
+	}
+
+	.some_one_suptitle {
+		min-height: auto;
+		max-height: auto;
+		width: 100%;
+		max-width: 294px;
+		margin: 20px 0 0 0;
+		text-align: left;
+	}
+
+	.some_one_button {
+		width: 100%;
+		margin: 20px 0 0 0;
+	}
+
+	.some_one_dk_suptitle {
+		display: none;
+	}
+
+	.some_one_name_right {
+		text-align: left;
+	}
+
+	.some_one_border {
+		flex-wrap: wrap;
+		display: flex;
+		align-items: flex-end;
+		align-content: flex-end;
+		height: 500px;
+		padding: 0 22px 30px 27px;
+		background-position: center 30% !important;
+	}
+
+	.some_one_name_mr {
+		margin: 0;
+	}
+
+	.some_one_justy {
+		display: flex;
+		flex-wrap: wrap;
+		align-content: space-between;
+		padding: 30px 0;
+		height: 100%;
+	}
+
+	.some_one_top {
+		width: 100%;
+	}
+}
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1200px) {
+	
+}	
+
+
+@media screen and (max-width: 1050px) {
+	
+	.some_one_border {
+	    flex-wrap: wrap;
+	    display: flex;
+	    align-items: flex-end;
+	    align-content: flex-end;
+	    height: 309px;
+	    padding: 0 22px 30px 27px;
+	    background-position: center 15% !important;
+	}
+
+	.some_one_justy {
+		padding: 30px 15px;
+	}
+
+	.some_two_inner {
+		display: none;
+	}
+
+	.some_two_wrap {
+		align-items: center;
+	}
+  
+}
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 1024px) {
+	
+  
+}
+
+/* стили для sm-устройств */
+@media screen and (max-width: 992px) {
+	.container-select-language {
+		padding: 0 10px;
+	}
+
+	.drop-down-language ul {
+		padding: 0;
+	}
+}
+
+
+@media screen and (max-width: 854px) {
+	
+	
+	.some_one_wrap {
+		padding: 0;
+		flex-wrap: wrap;
+	}
+
+	.some_one_block {
+		width: 100%;
+		margin: 0 0 20px 0;
+	}
+
+	.some_one {
+		background: url(../img/some_one.png) center 0;
+		background-size: cover;
+	}
+
+	.some_one_border {
+		background-size: cover !important;
+	}
+
+	.some_one_name_mr {
+		width: 100%;
+	}
+
+	.some_one_suptitle {
+		max-width: 100%;
+	}
+
+	.some_two_wrap {
+		flex-wrap: wrap;
+		align-content: flex-end;
+	}
+
+	.some_two_block {
+		width: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+
+	.some_two_block2 {
+		position: relative;
+		z-index: 1;
+		width: 100%;
+		padding: 0 15px 25px 15px;
+	}
+
+	.suptitle {
+	    font-family: Madera;
+	    font-size: 14px;
+	    font-style: normal;
+	    font-weight: 400;
+	    line-height: 120%;
+	}
+
+	.some_two_button {
+		width: 100%;
+	}
+
+	.some_two_img_mb {
+		display: flex;
+	}
+
+	.some_two_img_dk {
+		display: none;
+	}
+
+
+}
+
+
+/* Ipad*/ 
+@media screen and (max-width: 768px) {
+	
+
+
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 640px) {
+	
+}
+
+@media screen and (max-width: 575px) {
+  	
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+  	.some_one_border {
+  		height: 275px;
+  	}
+
+	.white {
+		color:#fff;
+	}
+
+	
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+  	.some_one_name {
+	    width: 100%;
+	    font-size: 24px;
+	    margin: 0;
+	}
+
+	.some_one_suptitle {
+		font-size: 12px;
+		margin: 15px 0 0 0;
+	}
+
+	.some_one_button {
+		margin: 15px 0 0 0;
+	}
+
+	.some_one_button button {
+	    border-radius: 50px;
+	    background: #fff;
+	    text-align: center;
+	    leading-trim: both;
+	    text-edge: cap;
+	    font-family: Madera;
+	    font-size: 16px;
+	    font-style: normal;
+	    font-weight: 700;
+	    line-height: 20.7px;
+	    color: #060A0F;
+	    width: 100%;
+	    height: 40px;
+	    padding: 0;
+	}
+
+	.some_one_border {
+		height: 200px;
+		padding: 0 15px 15px 15px;
+	}
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+	
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 320px) {
+	
+}
